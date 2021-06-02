@@ -20,7 +20,7 @@ Your coordinates are (0, 0). Would you like to go "up", "right", "down", or "lef
 
 ## Stretch goals
 
-* In addition to showing the user's coordinates. Add a location to each coordinate. For example, (0, 0) could be the mountains. Check out https://www.asciiart.eu/ for text art inspiration.
+* In addition to showing the user's coordinates. Add a location to each coordinate. For example, (0, 0) could be the mountains. Check out https://www.asciiart.eu/ for text art inspiration. Example
 
 ```
 Your coordinates are (0, 0).
@@ -41,4 +41,6 @@ Would you like to go "up", "right", "down", or "left"?
 >
 ```
 
-* Add some additional actions and interactivity to your game. Perhaps the goal of the game is to retrieve an item from one location and bring it to another!
+---
+
+* Add additional actions and interactivity to your game. Perhaps the goal of the game is to retrieve an item from one location and bring it to another!
