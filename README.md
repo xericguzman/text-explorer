@@ -1,6 +1,6 @@
 # `text-explorer` 🧗
 
-In this assignment, we'll create a basic coordinate-based text game that allows the user to move on a 2D plane and interact with their surroundings.
+In this assignment, we'll create a text-based game that allows the user to move on a 2D plane and interact with their surroundings.
 
 ## Step 1: Movement 💨
 
