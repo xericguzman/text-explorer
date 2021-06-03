@@ -78,11 +78,11 @@ And finally, make another commit in git!
 
 If you finish the previous requirements, consider trying to implement one or more of the following stretch goals.
 
-#### Movement Validation
+### Movement Validation
 
 Add validation so that the user is unable to navigate themself past the boundaries off the map.
 
-#### Improved Ending Condition
+### Improved Ending Condition
 
 Complciate your game-over condition. 
 
@@ -90,11 +90,11 @@ Maybe make it so that the user can either win or lose depending on where they go
 
 Alternatively, or in addition, make the ending condition more complex by requiring that the user acquires an item from one location before ending the game at a different location. You could keep track of wheter or not the user has this item with a boolean variable.
 
-#### A Bigger Map
+### A Bigger Map
 
 Make the map size bigger than 4x4!
 
-#### ASCII Art
+### ASCII Art
 
 In addition to showing the user a description of the location, add a text-based image! This is sometimes called ASCII art. Check out https://www.asciiart.eu/ some copy-pastable pieces of ASCII art.
 
