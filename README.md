@@ -26,7 +26,9 @@ Your coordinates are (0, 1). Would you like to go "up", "right", "down", or "lef
 Your coordinates are (0, 0). Would you like to go "up", "right", "down", or "left"?
 ```
 
-To do this, you'll want to create variables to contain the user's x and y positions. Below these definitions, you'll need a while loop that loops endlessly. Each iteration, prompt the user for an action. If that action is "left", subtract one from the user's x position. Update the user's position appropriately for "right", "up", and "down" as well.
+To do this, you'll want to create variables to contain the user's `x` and `y` positions. 
+
+Below these definitions, you'll need a `while` loop that loops endlessly. Each iteration, prompt the user for an action. If that action is `"left"`, subtract one from the user's `x` position. Update the user's position appropriately for "right", "up", and "down" as well.
 
 After getting this working, make a commit in git!
 
@@ -50,6 +52,8 @@ Would you like to go "up", "right", "down", or "left"?
 >
 ```
 
+Once again, make a commit in git after completing this step.
+
 ## Step 3: Purpose 🚀
 
 Finally, make your game endable. Update your while condition so that when the user arrives at a particular location, the game is ended. Add messaging before and after the
@@ -67,6 +71,8 @@ You emerge into a meadow with tall grass.
 Your coordinates are (-1, 0). 
 In the meadow lies a Golden Keyboard. Game over, you win!
 ```
+
+And finally, make another commit in git!
 
 ## Stretch goals 🔭
 
