@@ -34,7 +34,7 @@ After getting this working, make a commit in git!
 
 ## Step 2: Creating a map 🏰
 
-Now that we have a working coordinate system, it's time to add some descriptions to each location. Either in comments in your code or just with a pencil and paper, create a 4x4 grid of 16 locations starting from (-2, -2) to (2, 2). These could be rooms in house, different biomes, or anything you come up with! This could look like the following:
+Now that we have a working coordinate system, it's time to add some descriptions to each location. Either in comments in your code or just with a pencil and paper, create a 4x4 grid of 16 locations starting from (-2, -2) to (2, 2). These could be rooms in house, different biomes, or anything you come up with!
 
 Once you have that created, it's time to code. Add code so that when a user navigates to specific locations, you log out a description of that location. To do this, you'll need a series of if statements nested in your while loop. Each iteration of the loop, you'll first check the user's coordinates, then log out the corresponding location.
 
